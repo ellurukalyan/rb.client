@@ -27,4 +27,4 @@ steps:
       echo Write your commands here
       npm install -g tslint typescript
       tslint --project ./tsconfig.json
-    failOnStderr: true
+  #  failOnStderr: true
